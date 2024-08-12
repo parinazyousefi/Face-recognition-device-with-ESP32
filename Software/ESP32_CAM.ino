@@ -77,8 +77,8 @@ String recognize_face_matched_name[1] = {"PARINAZ" };
 #define PCLK_GPIO_NUM     22
 
 //<-- Add Wifi parameters
-const char* ssid     = "Seneca Rez";
-//const char* password = "max6675a";
+const char* ssid     = "wifi name";
+//const char* password = "password";
 
 //<-- Add internet time library parameters
 long timezone = -5; //<-- North America/Toronto
